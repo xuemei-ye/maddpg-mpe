@@ -15,7 +15,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
 
 - [pytorch](https://github.com/pytorch/pytorch)
 - [visdom](https://github.com/facebookresearch/visdom)
-- python==3.6.1 (recommend using the anaconda/miniconda)
+- python 3 (recommend using the anaconda/miniconda)
 
 ## Install
 
