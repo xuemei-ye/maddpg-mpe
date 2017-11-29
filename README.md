@@ -1,5 +1,5 @@
 # maddpg-mpe
-Transplant a implementation of MADDPG to the environment provided by openAI(multiagent-particle-envs).
+Transplant a implementation of MADDPG to the environment provided by openAI (multiagent-particle-envs).
 
 ## Introduction
 
