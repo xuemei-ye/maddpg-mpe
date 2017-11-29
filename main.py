@@ -109,7 +109,7 @@ for i_episode in range(n_episode):
         #print('next_obs',len(next_obs))  4 ndarray  next_obs[0] <class 'torch.FloatTensor'> len(next_obs[0]) 16
         obs = next_obs
         c_loss, a_loss = maddpg.update_policy(i_episode)
-        #env.render()
+        env.render()
     maddpg.episode_done += 1
     endTime = datetime.datetime.now()
     runTime = (endTime - startTime).seconds
