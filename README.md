@@ -25,7 +25,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
        export PYTHONPATH=$(pwd):$(pwd)/multiagent
 - python main.py
 
-## TODO
+## Todo
 
 Adjust parameters to improve training results.
 And for decrease training time,I change local observation to whole observation,this can be improvement.
