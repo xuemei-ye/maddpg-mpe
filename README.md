@@ -5,10 +5,10 @@ Transplant a implementation of MADDPG to the environment provided by openAI(mult
 
 Transplant a pytorch implementation [pytorch-maddpg](https://github.com/xuehy/pytorch-maddpg]) of MADDPG.
 
-paper : [multi-agent deep deterministic policy gradient algorithm](https://arxiv.org/abs/1706.02275)
+paper : [multi-agent deep deterministic policy gradient algorithm](https://arxiv.org/abs/1706.02275).
 
 environment : [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs). 
-(tested it with the simple tag environment and didn't use communication property c.)
+(tested it with the simple tag environment and didn't use communication property c).
 
 
 ## Dependency
