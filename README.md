@@ -36,11 +36,6 @@ Trained 1000 episodes：
 
 [![IMAGE ALT TEXT](http://oyf4unfbt.bkt.clouddn.com/runtime.png)](http://v.youku.com/v_show/id_XMzI4MjgzMDAyNA==.html?spm=a2h3j.8428770.3416059.1)
 
-## Todo
-
-Adjust parameters to improve training results.
-And for decrease training time,I change local observation to whole observation,this can be improved.
-
 
 
 
