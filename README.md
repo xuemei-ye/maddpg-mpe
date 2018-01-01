@@ -25,6 +25,17 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
        export PYTHONPATH=$(pwd):$(pwd)/multiagent
 - python main.py
 
+## result
+
+Before train：
+
+[![IMAGE ALT TEXT](http://oyf4unfbt.bkt.clouddn.com/runtime.png)](http://v.youku.com/v_show/id_XMzI4MjgyODU2MA==.html?spm=a2h3j.8428770.3416059.1)
+
+
+Trained 1000 episodes：
+
+[![IMAGE ALT TEXT](http://oyf4unfbt.bkt.clouddn.com/runtime.png)](http://v.youku.com/v_show/id_XMzI4MjgzMDAyNA==.html?spm=a2h3j.8428770.3416059.1)
+
 ## Todo
 
 Adjust parameters to improve training results.
