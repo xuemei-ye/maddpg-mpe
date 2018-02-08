@@ -27,16 +27,13 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
 
 ## result
 
-![image](https://github.com/yexme/maddpg-mpe/blob/master/Waterworld_Trained.gif)
+![image](https://github.com/yexme/maddpg-mpe/blob/master/Waterworld_beforeTrain.gif)
 Before train：(click the picture and you will see the video.)
-
-[![IMAGE ALT TEXT](http://oyf4unfbt.bkt.clouddn.com/runtime.png)](http://v.youku.com/v_show/id_XMzI4MjgyODU2MA==.html?spm=a2h3j.8428770.3416059.1)
 
 
 Trained 1000 episodes：
 
-[![IMAGE ALT TEXT](http://oyf4unfbt.bkt.clouddn.com/runtime.png)](http://v.youku.com/v_show/id_XMzI4MjgzMDAyNA==.html?spm=a2h3j.8428770.3416059.1)
-
+![image](https://github.com/yexme/maddpg-mpe/blob/master/Waterworld_Trained.gif)
 
 
 
