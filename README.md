@@ -27,13 +27,12 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
 
 ## result
 
-![image](https://github.com/yexme/maddpg-mpe/blob/master/Waterworld_beforTrain.gif)
-Before train：(click the picture and you will see the video.)
+![image](https://github.com/yexme/maddpg-mpe/blob/master/picture/Waterworld_beforTrained.gif)：
 
 
 Trained 1000 episodes：
 
-![image](https://github.com/yexme/maddpg-mpe/blob/master/Waterworld_Trained.gif)
+![image](https://github.com/yexme/maddpg-mpe/blob/master/picture/Waterworld_Trained.gif)
 
 Two purple spots are agents, red spots are poison, and green spots are food. It can be seen that before the training, the movement of the agent is random. After 1000 iterations, the agent has the actions of chasing, avoiding and cooperating.
 
