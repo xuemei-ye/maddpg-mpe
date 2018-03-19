@@ -25,7 +25,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
        export PYTHONPATH=$(pwd):$(pwd)/multiagent
 - python main.py
 
-## result
+## Result
 
 ![image](https://github.com/yexme/maddpg-mpe/blob/master/picture/Waterworld_beforTrain.gif)：
 
