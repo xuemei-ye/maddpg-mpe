@@ -36,9 +36,6 @@ Trained 1000 episodes：
 
 Two purple spots are agents, red spots are poison, and green spots are food. It can be seen that before the training, the movement of the agent is random. After 1000 iterations, the agent has the actions of chasing, avoiding and cooperating.
 
-read more:
-- [MADDPG note](https://zhuanlan.zhihu.com/p/30527842)
-- [Transplant note](https://zhuanlan.zhihu.com/p/31175608)
 
 
 
